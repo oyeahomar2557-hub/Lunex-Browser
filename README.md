@@ -1,2 +1,2 @@
 # Lunex-Browser
-Website made by ilker
+Browser made by ilker
